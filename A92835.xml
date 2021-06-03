@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second vindication of a short treatise of tythes lately written. And excepted against by a second printed paper, styled, Tythes totally routed by Magna Charta, &amp;c. Wherein is discuss'd, 1. Whether tythes were not due to the church of England, before Magna Charta, made in 9 H.3? 2. Whether that Magna Charta cap.1 do not confirm tythes to the church? 3. Whether that there ever was, (or indeed can be made) such an esposition of the 29. chapter of Magna Charta, that payment of tythes should be against the statute? 4. Whether the statute of 1 R.2.ca. 14. where made against parochial tythes.</title>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92835</idno><idno type="EEBO-CITATION">99866236</idno>
+  <idno type="VID">166647</idno>
+  <idno type="EEBO-PROQUEST">2240961983</idno>
+  
+            <idno type="STC">Wing S2336</idno>
+            <idno type="STC">Thomason E708_20</idno>
+            <idno type="STC">ESTC R207167</idno>
+            <idno type="PROQUEST">99866236</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866236e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166647)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E708[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second vindication of a short treatise of tythes lately written. And excepted against by a second printed paper, styled, Tythes totally routed by Magna Charta, &amp;c. Wherein is discuss'd, 1. Whether tythes were not due to the church of England, before Magna Charta, made in 9 H.3? 2. Whether that Magna Charta cap.1 do not confirm tythes to the church? 3. Whether that there ever was, (or indeed can be made) such an esposition of the 29. chapter of Magna Charta, that payment of tythes should be against the statute? 4. Whether the statute of 1 R.2.ca. 14. where made against parochial tythes.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Heath, and are to be sold at his shop in Russel-street, near the Piazza's of Covent-Garden.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Tythes totally routed by Magna Charta.</note>
+                  <note>Annotation on Thomason copy: "August [illegible] 4: 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Tythes totally routed by Magna Charta --  Early works to 1800.</term>
+               <term type="topical_term">Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166647:1"/>
+            <p>
+               <hi>A Second VINDICATION Of a short TREATISE OF TYTHES Lately WRITTEN.</hi>
+            </p>
+            <p>
+               <hi>And excepted against by a second printed Paper, Styled,</hi> Tythes Totally Routed by Magna Charta, &amp;c. <hi>Wherein is Discuss'd,</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> Whether Tythes were not due to the Church in England, before Magna Charta, made in <hi>9</hi> H. <hi>3?</hi>
+                  </item>
+                  <item>
+                     <hi>2.</hi> Whether that Magna Charta Cap. <hi>1.</hi> do not confirm Tythes to the Church?</item>
+                  <item>
+                     <hi>3.</hi> Whether that there ever was, (or indeed can be made) such an Exposition of the <hi>29.</hi> Chapter of Magna Charta, that payment of Tythes should be against that Statute?</item>
+                  <item>
+                     <hi>4.</hi> Whether the Statute of <hi>1</hi> R. <hi>2.</hi> ca. <hi>14.</hi> were made against Parochial Tythes.</item>
+               </list>
+            </p>
+            <p>London, <hi>Printed for</hi> Thomas Heath, <hi>and are to be sold at his shop in</hi> Russel-street, <hi>near the</hi> Piazza<hi>'s of</hi> Covent Garden. <hi>1653.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:166647:2"/>
+            <pb n="3" facs="tcp:166647:2"/>
+            <head>A Second Vindication of a short Treatise of Tythes lately written; and excepted against by a second Printed Paper, stiled, <hi>Tythes to<g ref="char:EOLhyphen"/>tally Routed by Magna Charta, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not abuse the Readers Patience either with Epistle or Preface, but come briefly to the Points controverted, because I will not contend in Words, but in Matter: Where<g ref="char:EOLhyphen"/>fore I state the Question thus:</p>
+            <list>
+               <item>1. <hi>Whether Tythes were not due to the Church in England, before Magna Charta, made in</hi> 9 <hi>H.</hi> 3?</item>
+               <item>2. <hi>Whether that Magna Charta Cap.</hi> 1. <hi>do not confirm Tythes to the Church?</hi>
+               </item>
+               <item>3. <hi>Whether that there ever was, (or indeed can be made) such an Exposition of the</hi> 29. <hi>Chapter of Magna Charta, that payment of Tythes should be against that Statute?</hi>
+               </item>
+               <item>4. <hi>Whether the Statute of</hi> 1 <hi>R.</hi> 2. <hi>ca.</hi> 14. <hi>were made against Parochial Tythes.</hi>
+               </item>
+            </list>
+            <p>The first Question doth Minister occasion necessarily to search into the Rights and practise of payment o Tythes of higher Antiquity then he that wrote the Treatise first intended, for it seems he thought that an established Law and Practice of 500 years Antiquity or thereabouts had been sufficient to have justified the Right: But we are put to a higher search, and yet I hope we shall not be constrained to soar so high, as to Evangelical or Apo<g ref="char:EOLhyphen"/>stolical Texts, nor yet to the Fathers of Primitive times, <hi>Origen,</hi> and others; nor to the Fathers of succeeding times to the years of 400. or 500. next after our Saviour Christ, as St. <hi>Ambrose,</hi> St. <hi>Augustine,</hi> and others, who lived about that time. Nor to any Forraign Ecclesiasti<g ref="char:EOLhyphen"/>cal
+<pb n="4" facs="tcp:166647:3"/>Canons or Censures, though backed with Secular Power in the Western Churches, for proof of the duty and payment of Tythes or tenth part about the year 800.</p>
+            <p>But our purpose only is, to touch upon the Laws, Coun<g ref="char:EOLhyphen"/>cels, Synods and Canons of this Nation: and because both parties do relie (as well they may) of what learned Mr. <hi>Selden</hi> hath herein written for matter of Antiquity, I refer you to his 8. Chapter of Tythes, wherein he doth commemorate at large, what is here faithfully abreviated for the Readers ease. The first Law I begin with, was that made by <hi>Off</hi>-King of <hi>Mercland,</hi> and <hi>Aesf<g ref="char:EOLhyphen"/>wold</hi> King of <hi>Northumberland,</hi> and by the Powers both Ecclesiastical and Secular the common people you see not excluded for the payment of Tythes or Tenth part, &amp;c. This was made Anno 786. by those Kings and Peo<g ref="char:EOLhyphen"/>ple that then took up a great part of <hi>England;</hi> and is like (saith Mr. <hi>Selden</hi>) that it was made general to all <hi>England.</hi>
+            </p>
+            <p>King <hi>Ethelulph</hi> in the year 855. with consent of his States both Secular and Ecclesiastick, gave unto the Church all manner of Tythes, both Predial, Parsonal and Mixt. And another like Grant was made by him by Parliamentary consent of that time.</p>
+            <p>In the Laws made by King <hi>Alfred</hi> (betwixt the years 872 and 901) and <hi>Guthrun</hi> the Dane, and renewed by <hi>Guthrun</hi> and King <hi>Edward,</hi> son to <hi>Alfred,</hi> about Anno 901. a penalty and forfeiture is imposed upon him that did not pay his Tythes, and this was very often renewed by the Wisemen (or Barronage) of succeeding times.</p>
+            <p>King <hi>Athelstan</hi> about 930. by advise and consent of his Bishops, made a general Law for payment of Predial and Mixt Tythes, for which the people gave him thanks.</p>
+            <p>King <hi>Edmond</hi> about Anno 940. in a kinde of Parlia<g ref="char:EOLhyphen"/>ment, both of Lay and Spiritual men, made an Act, That he that did not pay his Tythes should be Excommuni<g ref="char:EOLhyphen"/>cated. And in this Kings time did <hi>Odo</hi> Arch Bishop of
+<pb n="5" facs="tcp:166647:3"/>
+               <hi>Canterbury,</hi> make a Constitution (in a Synod, as may be believed) for payment of Tythes.</p>
+            <p>King <hi>Edgar</hi> about 970. with the advice of his wisemen (or Baronage) ordained, that the Church should enjoy all her liberties, and first that Tythe should be paid to the Mother Church, but if any had a Church with a place of burial, to give a third part of the Tythe to it; if without such place, to give of his nine parts what he would. And that he that would not pay his Tenth was to have all taken from him, and a ninth part onely re<g ref="char:EOLhyphen"/>turned to him.</p>
+            <p>In a Councel or kinde of Parliament held under King <hi>Ethelred,</hi> about Anno 1010. it is ordained, That the Church be not deprived of her Tythes of ancient time appointed. Other Laws of the same King are there re<g ref="char:EOLhyphen"/>membred, whereby every man is enjoyned to pay his Tythes, as was done in the time of their Ancestors, and which they gave unto the Church.</p>
+            <p>King <hi>Knout</hi> about 1020 made Laws agreeable, almost verbatim with those before of <hi>Edgar;</hi> and they are stiled in the most ancient Copies, <hi>Leges Anglicae:</hi> And in his Epistle as he departed from <hi>Rome,</hi> Anno 1031. and which he sent to his two Archbishops, and the rest of his Bishops and Baronage of <hi>England</hi> he straitly charges them all that they should take care that Tythes were duly paid among other Church Revenues, according to the anci<g ref="char:EOLhyphen"/>ent Law, threatning punishment against Refusers.</p>
+            <p>Amongst the Laws of <hi>Edward</hi> the Confessor, made by him, his Barons and People, there is this for Tythes, that the tenth sheaf be paid, the tenth colt, in case but one or two, for each 1 d. the tenth calf, in case but one or two, for each a half penny, and so forward for all other things, in most whereof the like payment continues to this day. And that they that would not pay, should be thereto compelled. <hi>Per Justitiam Episcopi &amp; Regis.</hi>
+            </p>
+            <pb n="6" facs="tcp:166647:4"/>
+            <p> And that Law of <hi>Edward</hi> was confirmed by <hi>William</hi> the Conqueror.</p>
+            <p>In a Synod held about the Conquest it is said, Let Tythes be paid of all that is possest.</p>
+            <p>And by a Canon of a Councel at <hi>Windsor</hi> some years after the Conquest, Laymen are enjoyned to pay Tythes.</p>
+            <p>And in the ninth year of <hi>William</hi> the Conqueror, in a Synod held at <hi>London,</hi> there is a passage against Arbitra<g ref="char:EOLhyphen"/>ry consecrations of Tythes.</p>
+            <p>But true it is, that about this time payment of Tythes according to those ancient laws, was much discontinued, which Mr. <hi>Selden</hi> doth specially observe by that Book of <hi>Domesday,</hi> which you cite; but there he gives a rea<g ref="char:EOLhyphen"/>son for it, that either the Clergy were then grown more wealthy, by the superabundant liberality of the people; or else that Tythes were then held so spiritual, that they were not thought fit to be inserted in that general survey.</p>
+            <p>And yet you may see again that in 3 <hi>H.</hi> 1. in a Synod held not by the Clergy alone, but by Royal Authority, with the assent of the Baronage, it was ordained, that Tythes should not be paid but unto Churches, against Arbitrary consecrations. And in the Laws of this King it is pro<g ref="char:EOLhyphen"/>vided That he that did not pay his Tythes, the Officer should seize all, and return to him the ninth part only, &amp;c. agreeable to the Laws of King <hi>Edgar</hi> and <hi>Knout</hi> be<g ref="char:EOLhyphen"/>fore remembred.</p>
+            <p>In the time of King <hi>H.</hi> 2. Anno 21. a Provincial Synod was held a <hi>Westminster,</hi> the King and his Son be<g ref="char:EOLhyphen"/>ing present, wherein Tythes are enjoyed to be paid un<g ref="char:EOLhyphen"/>der an <hi>Anathema.</hi>
+            </p>
+            <p>Then follows the Decretal Epistle of <hi>Innocent</hi> the 3. for Parochial payment of tythes, mentioned in the Trea<g ref="char:EOLhyphen"/>tise Anno 1200. in the second year of King <hi>John,</hi> which I mention not for authority, but for the time only when Parochial Right was established, because our Law Books
+<pb n="7" facs="tcp:166647:4"/>speak much of it, and of his Councel at <hi>Lateran</hi> within fifteen years after.</p>
+            <p>To all these Laws Secular and Ecclesiastical for due payment of Tythes, you may please to adde the practise of many Arbitrary Consecrations of Tythes to Mona<g ref="char:EOLhyphen"/>staries and Churches before the year of 9 <hi>H.</hi> 3. when <hi>Magna Charta</hi> was made; for which I do onely refer you (for they are too many to be repeated) to the 11. <hi>Chap.</hi> of Mr. <hi>Seldens</hi> Book of Tythes, where you may see many Instruments, and may know, that many more there be of that nature, whereby it is more then credible, most of the Tythes of <hi>England</hi> was settled by way of Ap<g ref="char:EOLhyphen"/>propriations to Abbyes and Religious Houses, and Pa<g ref="char:EOLhyphen"/>rochial and other Churches endowed with them before Anno 1200 But some Tythes remaining, yet then so un<g ref="char:EOLhyphen"/>disposed till the year 1200. then grew the general (but yet not the first as you may see here before of that of 9 of <hi>William</hi> the Conqueror, and of 3 <hi>H.</hi> 1.) Restraint of dis<g ref="char:EOLhyphen"/>posing them otherwise then to the Parish Church.</p>
+            <p>But what <hi>Churches</hi> at this day claim Tythes by vertue of that Restraint, is not necessary to be (nor in truth can be imagined to be) discovered. But every Parson prescribing to have the Tythes within his Parish of com<g ref="char:EOLhyphen"/>mon right belonging to him, this may be extended as wel (if not better) to be by endowment before <hi>an.</hi> 1200. as after.</p>
+            <p>All this is only to clear this point unto the Reader (for I perceive you are well read in Mr. <hi>Selden</hi> before) that Tythes were the <hi>Chu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ches</hi> right before the making of <hi>Magna Charta</hi> in 9 <hi>H.</hi> 3.</p>
+            <p>Now shall I come to shew you, how highly you mistake Sir <hi>Ed. Coke,</hi> when you say, that in his <hi>Chapter</hi> of Tythes (<hi>viz,</hi> in the second part of <hi>Inst. p.</hi> 651.) he affirmeth, that by the common Law, Lands are indecimable; and if so, say you, then by that common Law there can be no <hi>Church</hi> Right to Tythes. This your main foundation,
+<pb n="8" facs="tcp:166647:5"/>whereupon your Reply is built being answered, all your Arguments and Superstructure built upon it will fall to the ground. For answer therefore thereunto, you shall see that your first mistake is this, That he commenting upon the Proviso in the Statute of 2 <hi>E.</hi> 6. and upon these words; <hi>viz. That no person shall be compelled to pay Tythes of Lands, &amp;c. which by the Laws of the Realm, &amp;c. are not charge<g ref="char:EOLhyphen"/>able;</hi> he expounds the word <hi>(Laws)</hi> to be meant the com<g ref="char:EOLhyphen"/>mon Laws and Customs of the Realm; and there he stops. Then follows in a new line these words, <hi>Terrae sunt indeci<g ref="char:EOLhyphen"/>mabiles;</hi> which is another Sentence, and relates not at all to the former words: so that he doth not say, that by the common Law Lands are undeeimable, which then ought to have been all one intire sentence, but peruse it bet<g ref="char:EOLhyphen"/>ter, and you will finde it to be as I here tell you.</p>
+            <p>But if this satisfie you not, then I shall shew you that as you mistake, the coherence of the words, which are in<g ref="char:EOLhyphen"/>dependent on of another; so (if the words were as you would have them to sound) you clearly mistake his sense and meaning; for you take him as if he had said, that by the common Law, no tythe is of right due to the <hi>Church,</hi> out of the increase of the Land; which Interpretation is absolutely to corrupt the text, and overthrow the whole scope of the Statute, and the very law it self in this point; for you shal finde that it is not onely his reports, but the known Law, and so commonly held in our Books, 4 <hi>Rep.</hi> 44. Mr. <hi>Seld. p.</hi> 288. that no Lay man can prescribe <hi>in non Decimando;</hi> because that by the common Law all Land is lyable to the payment of tythe, of that which doth year<g ref="char:EOLhyphen"/>ly renew out of it. And again, it is his own saying, <hi>That by the common Law of this Land Ecclesiastical persens had remedy to recover their Tythes in the spiritual Court:</hi> so that if the Construction you make of Sir <hi>Ed. Coke</hi> be true, you make him to contradict himself to corrupt the Text of the <hi>stat.</hi> of 2 E. 6. and to deny the known Law in this point, which he hath very often approved of.</p>
+            <pb n="9" facs="tcp:166647:5"/>
+            <p> And now that I have shewn you what was not his meaning by those words <hi>(Terrae sunt indecimabiles)</hi> and your mistake thereupon, I will in the next place shew you his infalliable meaning therein. And that those words according to his mea<g ref="char:EOLhyphen"/>ing are true (though taken as you deliver them, with reference to the words precedent) and yet your collection upon them un true. For I agree, that Lands by the Common Law are not Tytheable; that is to say, That Tythes shall not be paid of any thing that is of the substance of the earth, and not An<g ref="char:EOLhyphen"/>nual: And thus doth he explain himself in the very next words following, that Tythes shall not be paid of Quarries of stone, turf, and many other things there mentioned, which are of the Nature and substance of the earth: and for your more full satisfaction of this truth, and that this is the meaning of Sir <hi>Edw. Coke</hi> in that place, it is most manifest by that book he there refers you to: for where he saith (<hi>Terrae sunt indeci<g ref="char:EOLhyphen"/>mabiles;</hi> that is to say, Lands are not Tytheable) hereof you may read divers examples (saith he) <hi>lib.</hi> 8. (which is misprint<g ref="char:EOLhyphen"/>ed for <hi>lib.</hi> 11.) but the folioes are right, 48, 49. and 81. where you may see the examples he refers you to, That no Tythe shall be paid of Timber-trees, because they are parcel of the Inheritance of the Land, nor of the Lop or Top of them, nor of the Bark, and such like things.</p>
+            <p>And this I hope, as it will be satisfactory to all that read it, so is it a full answer unto that objection you make against the Treatise out of those words of Sir <hi>Ed. Coke,</hi> and that the Assertion in the Treatise (which is out of the same Sir <hi>Edw. Coke</hi> also) <hi>That by the common Law of the Land Ecclesiastical persons had remedy to recover their Tythes in the Spiritual Court,</hi> is as true Assertion; and that the conclusion thereupon, that the Law gives no remedy, but where there is a right, is as true and indisputable, nor is that which you quote of Mr. <hi>Selden</hi> concerning Arbitrary disposition of Tythes any thing against this Assertion, for I agree to what he saith, and what Judge <hi>Ludloe, Brook,</hi> and others have said, that in ancient time a
+<pb n="10" facs="tcp:166647:6"/>man might have given his Tythe to what Church he would: But do any of them deny, that after a man had voluntarily gi<g ref="char:EOLhyphen"/>ven his tythes to any Church, that the Parson had remedy by the common law to recover such tythe in the spiritual Court; I tro not, and this is that Assertion, which if you disprove not, you disprove nothing.</p>
+            <p>As to that complaint of <hi>Wickliffe,</hi> which you cite, in the time of <hi>R.</hi> 2. that the proud and pompous Priests constrained the people (by Popish Canons, these words are your own, not <hi>Wickliffes,</hi> and contrary to many Laws be<g ref="char:EOLhyphen"/>fore remembred) to pay their Tythes to them, whereas within few years before, they paid them at their own free<g ref="char:EOLhyphen"/>will and pleasure: whether the Clergy then deserved that Censure, or <hi>Wickliffe</hi> was too blame to bestow it upon them, with much more bitterness then you mention, I pass by it as immaterial to our purpose; only take what Mr. <hi>Selden</hi> notes <hi>p.</hi> 292. that those few years he talks of, was then about 20<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. years since arbitrary Disposition of Tythes was taken away.</p>
+            <p>And whether the Treatise or you have mistaken Mr. <hi>Selden p.</hi> 144. <hi>Sit liber Iudex,</hi> and compared with that he writeth in his 10. <hi>Chapter,</hi> from <hi>p.</hi> 287. to the end, you will finde him inclined to that opinion, that Tythes were restrained to Pa<g ref="char:EOLhyphen"/>rochial right about 1200. though not by the Popes Canons or Decrees of those times: and <hi>p.</hi> 361. he tells you, that after the time of King <hi>Iohn,</hi> few or no Arbitrary Consecrations are found.</p>
+            <p n="2">2. Now to the second Question: You object, <hi>That because Tythes are not named in Magna Charta ca.</hi> 1. <hi>therefore they are not confirmed to the Church; for say you (and therein truly) that no new rights were given, but their old rights confirmed by Mag. Ch.</hi>
+            </p>
+            <p>To this I say, that though Tythes be not therein specially named, yet they were thereby confirmed in the general words of the Churches rights; and this is not only my exposition, but the ancient interpretation of the same words <hi>Liberties</hi> or <hi>Rights</hi> in that Law of King <hi>Edgar</hi> herein, before remembred.
+<pb n="11" facs="tcp:166647:6"/>Besides, if you please to cast your eye again upon Sir <hi>Edw. Cokes</hi> Comment of that first Chapter of <hi>Magna Charta,</hi> you may see that he doth observe, that the confirmation of the Churches rights in general was with favour, and for the ad<g ref="char:EOLhyphen"/>vantage of the Church without any restraint; but the clause concerning the Lay-subjects is restrained to their Liberties therein only mentioned. So that the question will still be, <hi>Whether Tythes were not the Churches right before the Statute of Magna Charta, made</hi> 9 <hi>H.</hi> 3. For the clearing of this questi<g ref="char:EOLhyphen"/>on, I can but refer you again to those Parliamentary Laws herein before remembred, which are upon Record, and un<g ref="char:EOLhyphen"/>deniable Authority, and unto those Councels both general and provincial, Synods and Canons held and made here in <hi>England</hi> by Royal Authority: for I have not only omitted all Forraign Councels and Canons, but likewise all such as have been held in this Nation by the Popes Authority, and against the Kings Consents (foreseeing your aptitude to ex<g ref="char:EOLhyphen"/>cept against them) beginning in the year 786. unto the raign of King <hi>Iohn</hi> Anno 1200. which preceded the Statute of <hi>Magna Charta</hi> 26. year; in which time it may well be sup<g ref="char:EOLhyphen"/>posed Parochial right was setled and the Parish Rectors pre<g ref="char:EOLhyphen"/>scription at this day is not bounded to the time of <hi>Innocents</hi> Decretal Epistle or Councel of <hi>Lateran,</hi> or any other time certain, but in Law is supposed to be beyond them all.</p>
+            <p>Now besides the aforesaid Laws made for payment of Tythes, in the Raigns of all the Kings before named, you may adde thereunto the practise of the people, for few of those Laws directing or confining the payment to the Parish, Arbitrary Consecrations, were then much used, and yet par<g ref="char:EOLhyphen"/>ticular Churches, Parochial-like, frequently endowed, as you may see in the Bundle of Records mentioned in the 11 <hi>Chap.</hi> of Mr. <hi>S.</hi> selected out of a multitude of others yet extant, whereby it may be collected, that by such Appropriations, Consecrations and Endowments, most Tythes were so setled. And because the Treatise saith, that Parochial Right was
+<pb n="10" facs="tcp:166647:7"/>not fully settled till the Raign of K. <hi>Iohn,</hi> therefore you con<g ref="char:EOLhyphen"/>clude, That the Church had no right to them before; which follows not, unless you will make all those Laws, Coun<g ref="char:EOLhyphen"/>cels, Synods and Canons, and all Consecrations, Appropri<g ref="char:EOLhyphen"/>ations and Endowments before mentioned of no force or ef<g ref="char:EOLhyphen"/>fect. By which tythes being of right belonging to the <hi>Church,</hi> there is no necessity that they must be Parochial time out of minde, before the making of <hi>Magna Charta,</hi> or else that they are not confirmed by that Statute, as you suppose.</p>
+            <p>For as for such Tythes as were not Parochial till 12. years (as you say) before <hi>Magna Charta,</hi> and in those 12. years were made Parochial by grant to the Parson of the Parish: Are not these Tythes then the right of the Church? if it be so, which neither you nor any other can deny, then doth the Statute of <hi>Magna Charta</hi> confirm it, though the grant to the Church were made but the day before the Statute, and im<g ref="char:EOLhyphen"/>mediately from the grant, hath the Parson remedy by the Common Law to recover his Tythes in the spiritual Court, and needs no such Custom or Prescription as you suppose. And if any Parson will make title to his parish Tythes by grant since the Making of <hi>Magna Charta</hi> (which he need not do, but prescribe) yet is his right and title good; and if that first Chapter of <hi>Magna Charta</hi> extend not to its confirmati<g ref="char:EOLhyphen"/>on, yet there be other and other Statutes enough that follow, which confirm not only <hi>Magna Charta,</hi> but the Churches rights in express terms; as take that Parliament of 1 <hi>R.</hi> 2. <hi>cap.</hi> 1. for one, which Parliament you so much insist upon.</p>
+            <p n="3">3. Nay, what will you say, if I make it plainly appear unto you, that that very 29. Chapter of <hi>Magna Charta,</hi> which you urge against the Parson, is an express Act for him, which thus I prove, The Words of <hi>Magna Charta, cap.</hi> 1. are, <hi>We do give and grant unto all the Freemen of our Kingdom, these liberties underwritten;</hi> and then names the particulars, &amp;c. These words <hi>(Freemen)</hi> (by Sir <hi>Ed. Coke</hi> upon the place) ex<g ref="char:EOLhyphen"/>tend to all persons Ecclesiastical and Temporal, &amp;c. and then
+<pb n="13" facs="tcp:166647:7"/>that 29. Chapter is <hi>Nullus Liber Homo, &amp;c. No Freeman shall be taken, imprisoned or disseised of his Freehold, Liberties, Free Customs, &amp;c.</hi> doth not this now in your own judgement in<g ref="char:EOLhyphen"/>clude the Ecclesiastical person? what co<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r then have you to take away his Tythes, and to deny the Churches right, though the tythes were given to the Church after the making of <hi>Magna Charta;</hi> for you are to know, that that Chapter and Statute extends not onely to the Freemen then living on<g ref="char:EOLhyphen"/>ly, nor to the estates men then had only, but to posterity, and to all such Lands, Tythes, &amp;c. as they should acquire after, to this very time and hereafter; so that if the owner of lands, that is now discharged of Tythes by composition or like im<g ref="char:EOLhyphen"/>munity, should grant the Tythes of such Land or the Tenths to the Parson of the parish, and his successors, this grant is good, and the Parson is <hi>Liber Homo,</hi> a Freeman within that very 29. <hi>Chap.</hi> of <hi>Mag. Char.</hi> and so is the! Appropriator also: and thus is the weapon you only fence with, turned into your own bosom, and in denying the Church one law, act and sta<g ref="char:EOLhyphen"/>tute, you have found them out another to add to the former.</p>
+            <p>And as for Sir <hi>Ed. Coke,</hi> there is neither he nor any other Lawyer (that I know) who voucheth that Decretal Epistle of <hi>Innocent</hi> the 3. or any Canon of the Councel of <hi>Lateran,</hi> nor any other Canon of the Pope to ground a right of tythes up<g ref="char:EOLhyphen"/>on for the Church of <hi>England;</hi> but thus we and all Lawyers of former ages say, that before the Councel of <hi>Lateran,</hi> men might have given their Tythes to what Church they would, pointing only at the time about which, but not relying upon that Canon or Decree for authority to restrain, and let Sir <hi>Ed. Coke</hi> speak for all, <hi>p.</hi> 641. that it bound not the subject of this Realm, but being just and reasonable they allowed it, and so became the Law of the Land, not by allowance of the Pope and his Clergy (as you please to have it) but by the people, which their practise ever since hath manifested; for just and reasonable things are not to be rejected, from whom<g ref="char:EOLhyphen"/>soever they come, be it from Pope or Turk, and you
+<pb n="14" facs="tcp:166647:8"/>your self in your Letter, <hi>p.</hi> 5. make use of such Councels and Decretals where you think that they do serve for your turn.</p>
+            <p>Now what was said in the Treatise, that there never was such an Expositio<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made of that 29. Chap. of <hi>Mag. Ch.</hi> as you have made of it, for the destruction of Tythes, <hi>Audacter dicam.</hi> I shall also affirm: nor have you mentioned any such Expositor, and till you do, you may please to let this that hath been said thereto give satisfaction.</p>
+            <p n="4">4. And as for your Exposition of the Statute of 1 <hi>R.</hi> 2. <hi>ca.</hi> 14. be pleased once again to be informed, that that Statute was made in favour of the Clergy; for when the Parishoner durst not deny the payment of his Tythes for fear of being sued in the Spiritual Court, the device was to set out the tythe, which when the Parson had carryed away, then would the Parishoner bring against him an action of Trespass for carrying away his goods; to which if the Parson (to draw the Suit out of the Temporal Court into the Spiritual Court) had pleaded that the suit was for his Tythes, the Parishoner in his Replication would aver, that his suit was for his Lay-Cattel, and not for Tythes, whereupon issue being joyned, this was to be tryed in the Temporal Court: Now to avoid this inconvenience was this Statute made, that such a general Averment of the Parishoner should not serve, with<g ref="char:EOLhyphen"/>out shewing how they came to be his Lay-chattels, either by the Parsons sale to him or otherwise. And that this is the true Exposition of the Statute, examine it but a little further in the form of pleading: The Parishoner doth declare in his Action of Trespass for taking away his goods, if the goods were the Lay-Chattels of the Parsons, he ought to plead the General Issue, Not guilty; for if he should plead that the goods were his own Lay-chattels, and shew how he came by them (as you would have it) this amounts but to the ge<g ref="char:EOLhyphen"/>neral Issue, and makes his plea nought. And again, when the Parson pleads that the suit is for his Tythes, to draw the Cause into the Spiritual Court (or else that plea were to no
+<pb n="15" facs="tcp:166647:8"/>purpose) how incongruous is it for the Parson to aver that they are his Lay-chattels, and shew specially how they came to be so, for thereby he admits the Temporal Jurisdiction, and overthrows his own ground for removing the Cause into the Spiritual Court, and the matter you would have him to aver is clearly against himself.</p>
+            <p>And you mistake the Treatise, when you report him to say, that the Parishoner in his Declaration should have made the Averment; for he says no such thing in the Treatise, nor is it proper, as you have very well proved. But when the Parson comes and pleads, that the suit is for his Tythes, &amp;c. then comes the Plaintiff and replieth, that his action is for his Lay-cattel; which general Averment, says the Statute, shall not be taken, without shewing how they came to be his Lay cattel: And by your own confession, such an Averment in the Replication is proper.</p>
+            <p>And because this Objection striketh at the Parochial right of Tythes, give me leave to satisfie you yet a little further therein, if you will give no credit nether to Sir <hi>Ed. Coke,</hi> 2. <hi>par. Inst. p.</hi> 641. nor to what Mr. <hi>Selden</hi> hath thereupon, <hi>p.</hi> 144. 296. 361. 468, 469. and divers other places, shew<g ref="char:EOLhyphen"/>ing that Arbitrary Consecrations ended in the time of King <hi>John,</hi> and Parochial right became a Law: You may for your further satisfaction see a Record cited by Mr. <hi>S. p.</hi> 362. 363. of the time of 49 <hi>H.</hi> 3. that in a Libel for Tythes no o<g ref="char:EOLhyphen"/>ther title is made but that the Land lies within the limits of the Parish; and he tells you there, where you may finde o<g ref="char:EOLhyphen"/>thers of the like nature of that time, according to the Law that to this day continues: And observe there another Re<g ref="char:EOLhyphen"/>cord of 6 <hi>E.</hi> 1. which infers the same thing. And for your further satisfaction therein, he there refers you to the Rela<g ref="char:EOLhyphen"/>tion of the English Monks that lived about the time of <hi>H.</hi> 3. which you may see there <hi>p.</hi> 147. So that I trust, if you will believe Antiquity, or give credit to what the common Law<g ref="char:EOLhyphen"/>yers have said therein from the beginning of the Raign of
+<pb n="16" facs="tcp:166647:9"/>
+               <hi>E.</hi> 3. to this day, you will acquiess in this Particular.</p>
+            <p>Let meobserve one thing more, though out of its proper place, for the justification of the Right and Antiquity of the Church to Tythes, that in the 13 Chapter of this very Par<g ref="char:EOLhyphen"/>liament of 1. <hi>R.</hi> 2. in the preample it is affirmed, that the peo<g ref="char:EOLhyphen"/>ple of holy Church pursuing in the spiritual court for tythes, which of right ought, and of old time were wont to partain to the same Spiritual Court, &amp;c. whereby you may see there acknowledged, the Churches right to Tythes (not new, but) ancient (for else that Court could not have such right to hold plea, &amp;c.) by that very Parliament, by which your in<g ref="char:EOLhyphen"/>terpretation upon this 14 <hi>Chapter</hi> would destroy them. And Marginal notes upon Abridgment of statutes are no gospel.</p>
+            <p>And but that you are still apt to mistake the Treatise, you would not have objected the Dissolution of the Parliament to have infringed what the Treatise did make mention of it for; and whether Ordinances of Parliament be determined by that dissolution, I neither affirm nor deny. But say, that you have thereby the judgement of that Parliament for the Right and Duty of Tythes, whether the Ordinance it self be at an end or not, which is all that the Treatise doth cite it for.</p>
+            <q>
+               <p>Id Possumus quod de jure Possumus.</p>
+            </q>
+            <q>
+               <p>God can do all things, but God cannot do an unjust thing.</p>
+            </q>
+            <p>Though Supreme Power may take Tythes and all that we have away, yet may it never be said, That the Minister or Appropriator was reasoned out of them, or had no right to them, or wanted Reason to defend their right.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
